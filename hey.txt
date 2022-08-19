@@ -1,2 +1,6 @@
 Articles are words that define a noun as specific or unspecific.
+<<<<<<< HEAD
 Hey! Shivam here...
+=======
+this is second line written by shubham.
+>>>>>>> c31cd143719059f41174ab6a2a67b69d9b92615d
