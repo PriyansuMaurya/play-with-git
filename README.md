@@ -19,7 +19,7 @@ Happy learning and happy coding! 🚀
 git add <additional_files>
 
 
-add changes to last commit
+**Add changes to last commit:**
 
 1. **Stage Your Additional Changes:**
    ```bash
