@@ -1,2 +1,2 @@
-Hello this file is added by mitesh for testing purpose
-this file is added as the feature for issue #7
+Hello this file is added by mitesh for testing purpose.
+This file is added as the feature for issue.
